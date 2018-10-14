@@ -1,0 +1,20 @@
+Options +FollowSymLinks -MultiViews +Indexes
+RewriteEngine On
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} 
+RewriteRule ^404$ ?page=404
+RewriteRule ^logout$ ?page=logout
+RewriteRule ^home$ ?page=home
+RewriteRule ^aboutus$ ?page=aboutus
+RewriteRule ^pricing$ ?page=pricing
+RewriteRule ^jobs$ ?page=jobs
+RewriteRule ^faq$ ?page=faq
+RewriteRule ^contact$ ?page=contact
+RewriteRule ^customerprofile$ ?page=customerprofile
+RewriteRule ^editcustomerprofile$ ?page=editcustomerprofile
+RewriteRule ^bookingstatus$ ?page=bookingstatus
+RewriteRule ^confirmbooking$ ?page=confirmbooking
+RewriteRule ^changepassword$ ?page=changepassword
+RewriteRule ^franchise$ ?page=franchise
+RewriteRule ^terms$ ?page=terms
+RewriteRule ^detect_availibility$ ?page=detect_availibility&ajax=1

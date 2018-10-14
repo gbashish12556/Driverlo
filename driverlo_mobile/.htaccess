@@ -1,0 +1,20 @@
+Options +FollowSymLinks -MultiViews +Indexes
+RewriteEngine On
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} 
+RewriteRule ^404$ ?page=404
+RewriteRule ^customer_login$ ?page=customer_login
+RewriteRule ^customer_registration$ ?page=customer_registration
+RewriteRule ^forgot_password$ ?page=forgot_password
+RewriteRule ^gen_registration_otp$ ?page=gen_registration_otp
+RewriteRule ^city_available$ ?page=city_available
+RewriteRule ^fetch_view$ ?page=fetch_view
+RewriteRule ^confirm_booking$ ?page=confirm_booking
+RewriteRule ^ride_details$ ?page=ride_details
+RewriteRule ^ride_history$ ?page=ride_history
+RewriteRule ^rate_driver$ ?page=rate_driver
+RewriteRule ^get_total_point$ ?page=get_total_point
+RewriteRule ^cancel_order$ ?page=cancel_order
+RewriteRule ^apply_referal_code$ ?page=apply_referal_code
+
+

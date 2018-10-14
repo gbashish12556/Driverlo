@@ -1,0 +1,90 @@
+23/12/2016 06:58:35 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 09bf87ce0c485b20d03ceec7c6e4542d
+)
+23/12/2016 07:02:44 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 4c13b7443afe45bbe6ecc2d36138765e
+)
+23/12/2016 07:03:04 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 09bf87ce0c485b20d03ceec7c6e4542d
+)
+23/12/2016 07:05:02 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 09bf87ce0c485b20d03ceec7c6e4542d
+)
+23/12/2016 07:05:15 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 09bf87ce0c485b20d03ceec7c6e4542d
+)
+23/12/2016 07:05:31 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 09bf87ce0c485b20d03ceec7c6e4542d
+)
+23/12/2016 07:05:46 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 09bf87ce0c485b20d03ceec7c6e4542d
+)
+23/12/2016 07:05:53 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 09bf87ce0c485b20d03ceec7c6e4542d
+)
+23/12/2016 07:05:57 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 09bf87ce0c485b20d03ceec7c6e4542d
+)
+23/12/2016 07:06:15 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 4c13b7443afe45bbe6ecc2d36138765e
+)
+23/12/2016 07:15:05 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 4c13b7443afe45bbe6ecc2d36138765e
+)
+23/12/2016 07:19:48 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 4c13b7443afe45bbe6ecc2d36138765e
+)
+23/12/2016 07:21:57 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 4c13b7443afe45bbe6ecc2d36138765e
+)
+23/12/2016 07:22:04 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 4c13b7443afe45bbe6ecc2d36138765e
+)
+23/12/2016 07:22:09 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 4c13b7443afe45bbe6ecc2d36138765e
+)
+23/12/2016 07:22:18 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 4c13b7443afe45bbe6ecc2d36138765e
+)
+23/12/2016 07:22:35 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => d61ca90826920c98a1c2f704bf856ef5
+)
+23/12/2016 08:12:15 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => f82ad3530000f303f2fa7edfd3c506b8
+)

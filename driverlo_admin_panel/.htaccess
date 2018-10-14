@@ -1,0 +1,68 @@
+Options +FollowSymLinks -MultiViews +Indexes
+RewriteEngine On
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} 
+RewriteRule ^404$ ?page=404
+RewriteRule ^admin_login$ ?page=admin_login
+RewriteRule ^dashboard$ ?page=new_order
+RewriteRule ^new_order$ ?page=new_order
+RewriteRule ^running_order$ ?page=running_order
+RewriteRule ^completed_order$ ?page=completed_order
+RewriteRule ^cancelled_order$ ?page=cancelled_order
+RewriteRule ^customer$ ?page=customer
+RewriteRule ^franchise$ ?page=franchise
+RewriteRule ^driver$ ?page=driver
+RewriteRule ^get_driver$ ?page=get_driver
+RewriteRule ^coupon_discount$ ?page=coupon_discount
+RewriteRule ^fare_chart$ ?page=fare_chart
+
+RewriteRule ^create_new_order$ ?page=create_new_order
+RewriteRule ^create_franchise$ ?page=create_franchise
+RewriteRule ^create_driver$ ?page=create_driver
+RewriteRule ^create_customer$ ?page=create_customer
+RewriteRule ^create_coupon_discount$ ?page=create_coupon_discount
+RewriteRule ^create_fare_chart$ ?page=create_fare_chart
+
+RewriteRule ^edit_new_order/([0-9]+)$ index.php?page=edit_new_order&id=$1
+RewriteRule ^edit_running_order/([0-9]+)$ index.php?page=edit_running_order&id=$1
+RewriteRule ^edit_completed_order/([0-9]+)$ index.php?page=edit_completed_order&id=$1
+RewriteRule ^edit_cancelled_order/([0-9]+)$ index.php?page=edit_cancelled_order&id=$1
+RewriteRule ^edit_coupon_discount/([0-9]+)$ index.php?page=edit_coupon_discount&id=$1
+RewriteRule ^edit_fare_chart/([0-9]+)$ index.php?page=edit_fare_chart&id=$1
+RewriteRule ^edit_customer/([0-9]+)$ index.php?page=edit_customer&id=$1
+RewriteRule ^edit_franchise/([0-9]+)$ index.php?page=edit_franchise&id=$1
+RewriteRule ^edit_driver/([0-9]+)$ index.php?page=edit_driver&id=$1
+
+RewriteRule ^edit_new_order$ index.php?page=edit_new_order
+RewriteRule ^edit_running_order$ index.php?page=edit_running_order
+RewriteRule ^edit_completed_order$ index.php?page=edit_completed_order
+RewriteRule ^edit_cancelled_order$ index.php?page=edit_cancelled_order
+RewriteRule ^edit_coupon_discount$ index.php?page=edit_coupon_discount
+RewriteRule ^edit_fare_chart$ index.php?page=edit_fare_chart
+RewriteRule ^edit_customer$ index.php?page=edit_customer
+RewriteRule ^edit_franchise$ index.php?page=edit_franchise
+RewriteRule ^edit_driver$ index.php?page=edit_driver
+
+RewriteRule ^delete_order/([0-9]+)$ index.php?page=delete_order&id=$1
+RewriteRule ^delete_customer/([0-9]+)$ index.php?page=delete_customer&id=$1
+RewriteRule ^delete_franchise/([0-9]+)$ index.php?page=delete_franchise&id=$1
+RewriteRule ^delete_driver/([0-9]+)$ index.php?page=delete_driver&id=$1
+RewriteRule ^delete_coupon_discount/([0-9]+)$ index.php?page=delete_coupon_discount&id=$1
+RewriteRule ^delete_fare_chart/([0-9]+)$ index.php?page=delete_fare_chart&id=$1
+
+RewriteRule ^delete_order$ index.php?page=delete_order
+RewriteRule ^delete_customer$ index.php?page=delete_customer
+RewriteRule ^delete_franchise$ index.php?page=delete_franchise
+RewriteRule ^delete_driver$ index.php?page=delete_driver
+RewriteRule ^delete_coupon_discount$ index.php?page=delete_coupon_discount
+RewriteRule ^delete_fare_chart$ index.php?page=delete_fare_chart
+RewriteRule ^approve_order$ index.php?page=approve_order
+RewriteRule ^detect_availibility$ index.php?page=detect_availibility&ajax=1
+RewriteRule ^approve_order$ index.php?page=approve_order
+RewriteRule ^confirm_bill$ index.php?page=confirm_bill
+RewriteRule ^logout$ index.php?page=logout
+
+RewriteRule ^approve_order/([0-9]+)$ index.php?page=approve_order&id=$1
+RewriteRule ^generate_bill/([0-9]+)$ index.php?page=generate_bill&id=$1
+
+

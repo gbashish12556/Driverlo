@@ -1,0 +1,35 @@
+23/12/2016 02:55:30 pm Array
+(
+    [page] => gen_registration_otp
+    [signup_email] => gb@gmail.com
+    [OTP] => 819498
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 06:35:40 pm Array
+(
+    [page] => gen_registration_otp
+    [signup_email] => gbashish12556@gmail.com
+    [OTP] => 525528
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 06:57:47 pm Array
+(
+    [page] => gen_registration_otp
+    [signup_email] => gb@gmail.com
+    [OTP] => 544737
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 06:58:11 pm Array
+(
+    [page] => gen_registration_otp
+    [signup_email] => gb@gmail.com
+    [OTP] => 692141
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 07:02:25 pm Array
+(
+    [page] => gen_registration_otp
+    [signup_email] => akg@gmail.com
+    [OTP] => 574708
+    [signup_mobile_no] => 8276097972
+)

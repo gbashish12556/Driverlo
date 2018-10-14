@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<configuration date="2016/12/27" author="e.World Technology Ltd.">
+<project id="{EF683EA7-113B-4FD4-A0F1-4B1B7BEBED8D}" file="C:\Users\Ashish\Desktop\admin_driverlo.pmp" name="admin_driverlo" product="PHPMaker" version="10.0" datetime="2016/12/27 11:51:14" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="tbl_booking_detail" name="tbl_booking_detail" caption="tbl booking detail" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tbl_city" name="tbl_city" caption="tbl city" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tbl_coupon_discount" name="tbl_coupon_discount" caption="tbl coupon discount" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tbl_customer_info" name="tbl_customer_info" caption="tbl customer info" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tbl_driver_info" name="tbl_driver_info" caption="tbl driver info" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_booking_detail" name="view_booking_detail" caption="view booking detail" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_city" name="view_city" caption="view city" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_coupon_discount" name="view_coupon_discount" caption="view coupon discount" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_customer_info" name="view_customer_info" caption="view customer info" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tbl_admin" name="tbl_admin" caption="tbl admin" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="userlevels" name="userlevels" caption="userlevels" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tbl_fare_chart" name="tbl_fare_chart" caption="tbl fare chart" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tbl_franchise_info" name="tbl_franchise_info" caption="tbl franchise info" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_admin" name="view_admin" caption="view admin" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_driver_info" name="view_driver_info" caption="view driver info" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_fare_chart" name="view_fare_chart" caption="view fare chart" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_franchise_info" name="view_franchise_info" caption="view franchise info" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="tbl_referal_code_log" name="tbl_referal_code_log" caption="tbl referal code log" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="view_referal_code_log" name="view_referal_code_log" caption="view referal code log" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>

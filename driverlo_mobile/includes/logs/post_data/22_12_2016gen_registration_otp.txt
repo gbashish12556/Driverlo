@@ -1,0 +1,7 @@
+22/12/2016 08:26:17 pm Array
+(
+    [page] => gen_registration_otp
+    [signup_email] => gb@gmail.com
+    [OTP] => 165379
+    [signup_mobile_no] => 8276903952
+)

@@ -1,0 +1,54 @@
+23/12/2016 02:55:38 pm Array
+(
+    [page] => customer_registration
+    [signup_password] => 123456
+    [signup_name] => Ashish Gupta
+    [signup_email] => gb@gmail.com
+    [referral_mobile_no] => 
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 02:55:43 pm Array
+(
+    [page] => customer_registration
+    [signup_password] => 123456
+    [signup_name] => Ashish Gupta
+    [signup_email] => gb@gmail.com
+    [referral_mobile_no] => 
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 06:35:50 pm Array
+(
+    [page] => customer_registration
+    [signup_password] => 123456
+    [signup_name] => Ashish Gupta
+    [signup_email] => gbashish12556@gmail.com
+    [referral_mobile_no] => 
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 06:35:55 pm Array
+(
+    [page] => customer_registration
+    [signup_password] => 123456
+    [signup_name] => Ashish Gupta
+    [signup_email] => gbashish12556@gmail.com
+    [referral_mobile_no] => 
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 06:58:27 pm Array
+(
+    [page] => customer_registration
+    [referal_code] => 
+    [signup_password] => 123456
+    [signup_name] => Ashish Gupta
+    [signup_email] => gb@gmail.com
+    [signup_mobile_no] => 8276903952
+)
+23/12/2016 07:02:38 pm Array
+(
+    [page] => customer_registration
+    [referal_code] => AG18
+    [signup_password] => 123456
+    [signup_name] => Ashushtosh Gupta
+    [signup_email] => akg@gmail.com
+    [signup_mobile_no] => 8276097972
+)

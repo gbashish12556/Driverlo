@@ -1,0 +1,74 @@
+.move{
+  right:0px !important;
+	transition : 1.5s;
+  -webkit-transition: 1.5s;
+  -moz-transition: 1.5s;
+}
+
+		#feedback_form{
+			position: fixed;
+			top:100px;
+			right:-362px;
+			z-index: 99;
+			transition: 1.5s;
+      -webkit-transition: 1.5s;
+      -moz-transition: 1.5s;
+		}
+		#feedback_form form{
+			display: inline-block;;
+			border: 1px solid #000000;
+			padding: 10px;
+			border-radius:5px;
+			background: #FFFFFF;
+
+		}
+		#feedback_form form label{
+
+			float: left;
+			text-align:right;
+			margin-right:20px;
+			width:70px;
+			font-weight:bold;
+			color: 019AC6;
+			font-size:14px;
+		}
+
+		#feedback_form form input{
+		float:left;
+
+		}
+		#feedback_form button{
+			display: inline-block;
+			width:40px;
+			height:175px;
+			text-indent:-9999em;
+			position: absolute;
+
+
+
+		}
+
+		#feedback_form img{
+
+				background: #000000;
+				padding: 5px;
+				border-radius: 5px;
+		}
+
+		#feedback_form form textarea{
+			width:250px;
+			height:140px;
+			border: 1px solid #019AC6;
+		}
+		#feedback_form form input[type="text"]{
+			width:250px;
+			height:30px;
+			border: 1px solid #019AC6;
+		}
+
+	#heading{
+
+		font-size: 25px;
+		text-align: center;
+		padding: 10px 10px;
+	}

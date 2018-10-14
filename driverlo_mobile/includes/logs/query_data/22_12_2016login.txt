@@ -1,0 +1,1 @@
+22/12/2016 08:27:11 pm SELECT mobile_no,name,user_token FROM view_customer_info WHERE mobile_no = '8276903952' AND password = '1234'

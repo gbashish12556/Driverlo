@@ -1,0 +1,12 @@
+22/12/2016 08:25:01 pm Array
+(
+    [page] => apply_referal_code
+    [customer_token] => ff9de787501b5ebb8da1b2852e42a1fe
+    [referal_code] => ref50
+)
+22/12/2016 08:27:24 pm Array
+(
+    [page] => apply_referal_code
+    [customer_token] => 07dda62b2d72ada74907157282bcfe73
+    [referal_code] => ref50
+)

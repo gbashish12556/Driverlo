@@ -1,0 +1,1 @@
+22/12/2016 08:27:11 pm SELECT mobile_no FROM view_customer_info WHERE mobile_no = '8276903952' AND is_active = '1' 22/12/2016 08:27:11 pm host192.168.1.101

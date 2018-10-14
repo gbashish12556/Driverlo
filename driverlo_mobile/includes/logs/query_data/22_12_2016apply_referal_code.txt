@@ -1,0 +1,1 @@
+22/12/2016 08:25:01 pm select total_point from view_customer_info where user_token = 'ff9de787501b5ebb8da1b2852e42a1fe'22/12/2016 08:27:24 pm select total_point from view_customer_info where user_token = '07dda62b2d72ada74907157282bcfe73'22/12/2016 08:27:24 pm select coupon_discount from tbl_coupon_discount where coupon_code = 'ref50' and is_referal = '1' 

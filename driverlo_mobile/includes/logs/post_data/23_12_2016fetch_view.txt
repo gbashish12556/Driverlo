@@ -1,0 +1,84 @@
+23/12/2016 02:53:31 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 02:53:40 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 02:53:56 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 06:34:42 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 06:34:53 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 06:57:04 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 06:58:55 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 06:59:03 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 07:01:36 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 07:50:38 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 07:57:54 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 08:02:20 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 08:11:58 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)
+23/12/2016 08:12:08 pm Array
+(
+    [page] => fetch_view
+    [latest_date] => 2016-11-11 19:03:28
+    [view_name] => view_fare_chart
+)

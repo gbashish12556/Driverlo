@@ -1,0 +1,5 @@
+22/12/2016 08:27:15 pm Array
+(
+    [page] => get_total_point
+    [customer_token] => 07dda62b2d72ada74907157282bcfe73
+)
